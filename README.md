@@ -1,9 +1,12 @@
-
 <!--
-**MeherabHS/MeherabHS** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+**MeherabHS/MeherabHS** is a special repository because its README.md appears on your GitHub profile.
 -->
 
-[![Header](header.svg "Header")](https://meherabhs.vercel.app/)
+<p align="center">
+  <a href="https://meherabhs.vercel.app/">
+    <img src="meherab.png" alt="Meherab Hossain Shafin portfolio header" width="100%" />
+  </a>
+</p>
 
 ## Hi there 👋, I'm [Meherab Hossain Shafin](https://meherabhs.vercel.app/)!
 
