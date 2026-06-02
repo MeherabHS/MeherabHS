@@ -135,7 +135,7 @@ Visit my portfolio:
 
 [https://meherabhs.vercel.app](https://meherabhs.vercel.app)
 
----
 
-> Building data systems, models that forecast, and workflows that are reproducible.
-```
+
+> Building data systems that matter, models that forecast, and workflows that are reproducible.
+
