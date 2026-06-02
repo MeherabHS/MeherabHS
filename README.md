@@ -63,26 +63,30 @@ Repository: [Bangladesh-air-quality-forecasting](https://github.com/MeherabHS/Ba
 
 <div align="center">
 
-<img 
-  src="https://streak-stats.demolab.com?user=MeherabHS&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
-  alt="Meherab Hossain Shafin GitHub Streak" 
+<img
+  src="https://streak-stats.demolab.com?user=MeherabHS&amp;theme=tokyonight&amp;hide_border=true"
+  alt="Meherab Hossain Shafin GitHub Streak"
 />
 
-<br/>
-<br/>
+<br />
+<br />
 
-<img 
-  height="170" 
-  src="https://github-readme-stats.vercel.app/api?username=MeherabHS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
-  alt="Meherab Hossain Shafin GitHub Stats" 
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=MeherabHS&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true"
+  alt="Meherab Hossain Shafin GitHub Stats"
 />
 
-<img 
-  height="170" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabHS&layout=compact&theme=tokyonight&hide_border=true" 
-  alt="Most Used Languages" 
+<br />
+<br />
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabHS&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+  alt="Most Used Languages"
 />
 
+</div>
 </div>
 ---
 
