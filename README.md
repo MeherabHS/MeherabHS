@@ -61,16 +61,29 @@ Repository: [Bangladesh-air-quality-forecasting](https://github.com/MeherabHS/Ba
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MeherabHS&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
 
-<a href="https://github.com/MeherabHS/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeherabHS&rank_icon=github&show_icons=true&theme=tokyonight" />
-</a>
+<img 
+  src="https://streak-stats.demolab.com?user=MeherabHS&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+  alt="Meherab Hossain Shafin GitHub Streak" 
+/>
 
-<a href="https://github.com/MeherabHS/github-readme-stats">
-  <img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabHS&layout=compact&theme=tokyonight" />
-</a>
+<br/>
+<br/>
 
+<img 
+  height="170" 
+  src="https://github-readme-stats.vercel.app/api?username=MeherabHS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+  alt="Meherab Hossain Shafin GitHub Stats" 
+/>
+
+<img 
+  height="170" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabHS&layout=compact&theme=tokyonight&hide_border=true" 
+  alt="Most Used Languages" 
+/>
+
+</div>
 ---
 
 ## Technologies
