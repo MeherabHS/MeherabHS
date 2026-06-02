@@ -58,7 +58,6 @@ A PM2.5 forecasting workflow across Bangladeshi cities using automated API inges
 Repository: [Bangladesh-air-quality-forecasting](https://github.com/MeherabHS/Bangladesh-air-quality-forecasting)
 
 ---
-
 ## Stats
 
 <div align="center">
@@ -68,25 +67,6 @@ Repository: [Bangladesh-air-quality-forecasting](https://github.com/MeherabHS/Ba
   alt="Meherab Hossain Shafin GitHub Streak"
 />
 
-<br />
-<br />
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=MeherabHS&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github&amp;include_all_commits=true"
-  alt="Meherab Hossain Shafin GitHub Stats"
-/>
-
-<br />
-<br />
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabHS&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
-  alt="Most Used Languages"
-/>
-
-</div>
 </div>
 ---
 
