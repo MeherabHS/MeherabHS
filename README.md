@@ -68,7 +68,7 @@ Repository: [Bangladesh-air-quality-forecasting](https://github.com/MeherabHS/Ba
 />
 
 </div>
----
+
 
 ## Technologies
 
