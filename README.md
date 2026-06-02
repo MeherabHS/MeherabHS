@@ -21,12 +21,12 @@ I am an undergraduate Software Engineering student at **Daffodil International U
 
 I am especially interested in time-series forecasting, data engineering, reproducible analytical methods, and decision-support systems that connect research, software, and real-world implementation.
 
-- 🔭 I’m currently working on forecasting, data engineering, and full-stack systems.
-- 🌱 I’m currently learning advanced machine learning, scalable data pipelines, and production-ready web systems.
-- 👯 I’m looking to collaborate on data science, forecasting, public health analytics, and open-source engineering projects.
-- 💬 Ask me about time-series forecasting, Python, SQL, Next.js, PostgreSQL, and reproducible analytics.
-- 📫 How to reach me: **meherabhossainshafin@gmail.com**
-- ⚡ Current focus: turning raw data into validated models and usable analytical systems.
+- I’m currently working on forecasting, data engineering, and full-stack systems.
+- I’m currently learning advanced machine learning, scalable data pipelines, and production-ready web systems.
+- I’m looking to collaborate on data science, forecasting, public health analytics, and open-source engineering projects.
+- Ask me about time-series forecasting, Python, SQL, Next.js, PostgreSQL, and reproducible analytics.
+- How to reach me: **meherabhossainshafin@gmail.com**
+- Current focus: turning raw data into validated models and usable analytical systems.
 
 ---
 
