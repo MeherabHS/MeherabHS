@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## Hi there 👋, I'm [Meherab Hossain Shafin](https://meherabhs.vercel.app/)!
+## Hi there, I'm [Meherab Hossain Shafin](https://meherabhs.vercel.app/)!
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25px"/>](https://www.linkedin.com/in/meherab-hossain-3b3416403/) &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="25px"/>](https://www.facebook.com/mrcube.16) &nbsp;
