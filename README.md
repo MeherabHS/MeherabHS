@@ -63,19 +63,11 @@ Repository: [Bangladesh-air-quality-forecasting](https://github.com/MeherabHS/Ba
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=MeherabHS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-  alt="Meherab Hossain Shafin GitHub Stats" 
-/>
-
-<br/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabHS&layout=compact&theme=tokyonight&hide_border=true" 
-  alt="Most Used Languages" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeherabHS&theme=tokyonight" 
+  alt="GitHub Profile Summary"
 />
 
 </div>
-
 ## Activity
 
 <div align="center">
