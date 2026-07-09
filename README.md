@@ -1,4 +1,4 @@
-<!--
+A<!--
 **MeherabHS/MeherabHS** is a special repository because its README.md appears on your GitHub profile.
 -->
 
@@ -62,9 +62,27 @@ Repository: [Bangladesh-air-quality-forecasting](https://github.com/MeherabHS/Ba
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=MeherabHS&amp;theme=tokyonight&amp;hide_border=true"
-  alt="Meherab Hossain Shafin GitHub Streak"
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=MeherabHS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  alt="Meherab Hossain Shafin GitHub Stats" 
+/>
+
+<br/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeherabHS&layout=compact&theme=tokyonight&hide_border=true" 
+  alt="Most Used Languages" 
+/>
+
+</div>
+
+## Activity
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MeherabHS&theme=tokyo-night&hide_border=true" 
+  alt="GitHub Activity Graph" 
 />
 
 </div>
