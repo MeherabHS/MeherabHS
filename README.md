@@ -60,14 +60,14 @@ Repository: [Bangladesh-air-quality-forecasting](https://github.com/MeherabHS/Ba
 ---
 ## Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20Full--Stack-blue" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI-green" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue" />
+  <img src="https://img.shields.io/badge/Deployment-DigitalOcean-teal" />
+  <img src="https://img.shields.io/badge/Mobile-React%20Native-purple" />
+</p>
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeherabHS&theme=tokyonight" 
-  alt="GitHub Profile Summary"
-/>
-
-</div>
 ## Activity
 
 <div align="center">
