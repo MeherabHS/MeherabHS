@@ -58,15 +58,6 @@ A PM2.5 forecasting workflow across Bangladeshi cities using automated API inges
 Repository: [Bangladesh-air-quality-forecasting](https://github.com/MeherabHS/Bangladesh-air-quality-forecasting)
 
 ---
-## Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%26%20Full--Stack-blue" />
-  <img src="https://img.shields.io/badge/Backend-FastAPI-green" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue" />
-  <img src="https://img.shields.io/badge/Deployment-DigitalOcean-teal" />
-  <img src="https://img.shields.io/badge/Mobile-React%20Native-purple" />
-</p>
 
 ## Activity
 
