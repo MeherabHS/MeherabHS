@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <a href="https://meherabhs.vercel.app/">
+  <a href="https://meherab-hs.vercel.app/">
     <img src="meherab.png" alt="Meherab Hossain Shafin portfolio header" width="100%" />
   </a>
 </p>
