@@ -3,12 +3,12 @@
 -->
 
 <p align="center">
-  <a href="https://meherab-hs.vercel.app/">
+  <a href="https://meherabhs.netlify.app">
     <img src="meherab.png" alt="Meherab Hossain Shafin portfolio header" width="100%" />
   </a>
 </p>
 
-## Hi there, I'm [Meherab Hossain Shafin](https://meherabhs.vercel.app/)!
+## Hi there, I'm [Meherab Hossain Shafin](https://meherabhs.netlify.app)!
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25px"/>](https://www.linkedin.com/in/meherab-hossain-3b3416403/) &nbsp;
 [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="25px"/>](https://www.facebook.com/mrcube.16) &nbsp;
@@ -134,7 +134,7 @@ View: [ResearchGate Output](https://www.researchgate.net/publication/403543296_S
 
 Visit my portfolio:
 
-[https://meherab-hs.vercel.app](https://meherab-hs.vercel.app)
+[https://meherabhs.netlify.app](https://meherabhs.netlify.app)
 
 
 
