@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://meherabhs.netlify.app">
-    <img src="meherab.png" alt="Meherab Hossain Shafin" width="100%" />
+    <img src="meherab.jpg" alt="Meherab Hossain Shafin" width="100%" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ M. H. Shafin · *Research Square preprint*, 2026 · [doi:10.21203/rs.3.rs-928580
 - Questionnaire implementation for an Ecological Momentary Assessment study (associated with the University of Georgia) and the IJM CSEC Baseline Study.
 - Designed and built RMCL's Procurement and Consultant Repository, saving about 20 staff-hours per week of proposal preparation.
 
-**Systems Architect and Software Engineer**, Circle Technology Ltd, Dhaka
+**Systems Architect and Software Engineer**, Circle Technology Ltd, Dhaka · Dec 2025 – present
 - Architect and lead engineer of [HelloDoctor](https://github.com/MeherabHS/hellodoctor), a telemedicine platform: Rust API, PostgreSQL with row-level security, Flutter patient and doctor apps, Next.js web apps.
 - Built the delivery pipeline: automated backend test suites, security scanning, disposable penetration-test stacks and native ARM64 image validation in CI.
 
