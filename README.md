@@ -1,142 +1,69 @@
-<!--
-**MeherabHS/MeherabHS** is a special repository because its README.md appears on your GitHub profile.
--->
-
 <p align="center">
   <a href="https://meherabhs.netlify.app">
-    <img src="meherab.png" alt="Meherab Hossain Shafin portfolio header" width="100%" />
+    <img src="meherab.png" alt="Meherab Hossain Shafin" width="100%" />
   </a>
 </p>
 
-## Hi there, I'm [Meherab Hossain Shafin](https://meherabhs.netlify.app)!
+## Meherab Hossain Shafin
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="25px"/>](https://www.linkedin.com/in/meherab-hossain-3b3416403/) &nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="25px"/>](https://www.facebook.com/mrcube.16) &nbsp;
-<a href="mailto:meherabhossainshafin@gmail.com">
-  <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="25px"/>
-</a> &nbsp;
-[<img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="25px"/>](https://github.com/MeherabHS)
+**Software Engineering undergraduate at Daffodil International University (CGPA 3.80/4.00, Dean's List) · Junior Data and Research Associate at RMCL · Systems Architect at Circle Technology Ltd · Dhaka, Bangladesh**
 
-I am an undergraduate Software Engineering student at **Daffodil International University** and a **Junior Data and Research Associate Intern at Research and Management Consultants Ltd. (RMCL)**. My work focuses on building practical data systems, validated forecasting workflows, public health analytics pipelines, and full-stack applications.
+I build forecasting and decision-support systems for public health and energy, and I care about evaluating them honestly: rolling-origin validation, strong baselines, calibrated uncertainty and reproducible code. My research asks when added complexity actually improves a forecast, and my engineering work turns models into systems people can use.
 
-I am especially interested in time-series forecasting, data engineering, reproducible analytical methods, and decision-support systems that connect research, software, and real-world implementation.
-
-- I’m currently working on forecasting, data engineering, and full-stack systems.
-- I’m currently learning advanced machine learning, scalable data pipelines, and production-ready web systems.
-- I’m looking to collaborate on data science, forecasting, public health analytics, and open-source engineering projects.
-- Ask me about time-series forecasting, Python, SQL, Next.js, PostgreSQL, and reproducible analytics.
-- How to reach me: **meherabhossainshafin@gmail.com**
-- Current focus: turning raw data into validated models and usable analytical systems.
+[Portfolio](https://meherabhs.netlify.app) · [LinkedIn](https://www.linkedin.com/in/meherab-hossain-3b3416403/) · [Email](mailto:meherabhossainshafin@gmail.com)
 
 ---
 
-## Featured Work
+## Research
 
-### Bangladesh Dengue Forecasting
-A reproducible national dengue forecasting workflow using surveillance data, climate covariates, and walk-forward validation.
+**Do climate covariates improve national-scale dengue forecasting beyond autoregressive and seasonal structure? A 15-year time-series analysis from Bangladesh**  
+M. H. Shafin · *Research Square preprint*, 2026 · [doi:10.21203/rs.3.rs-9022720/v1](https://doi.org/10.21203/rs.3.rs-9022720/v1) · [code](https://github.com/MeherabHS/bangladesh-dengue-forecasting)  
+> SARIMA reached RMSE 0.736 vs 1.148 for naive persistence, with ~94% empirical coverage of 95% prediction intervals. Climate covariates added little once autoregressive and seasonal structure were modelled.
 
-Repository: [bangladesh-dengue-forecasting](https://github.com/MeherabHS/bangladesh-dengue-forecasting)
-
-### Electricity Load Forecasting for Ireland
-A statistically validated multi-horizon electricity demand forecasting pipeline using ENTSO-E demand data and NASA POWER weather data.
-
-Repository: [Electricity Load Forecasting with Weather-Augmented ML](https://github.com/MeherabHS/Statistically-Validated-Multi-Horizon-Electricity-Load-Forecasting-with-Weather-Augmented-ML)
-
-### NYC Taxi Data Engineering
-A PostgreSQL-based ETL and analytics pipeline processing 40M+ NYC yellow taxi records with optimized query performance.
-
-Repository: [nyc-taxi-data-engineering-postgresql](https://github.com/MeherabHS/nyc-taxi-data-engineering-postgresql)
-
-### Dataset Reliability Inspector
-A deterministic auditing system for dataset quality, missingness, outliers, leakage signals, and modeling readiness.
-
-Repository: [Automated Dataset Reliability and Modeling Readiness Inspector](https://github.com/MeherabHS/Automated-Dataset-Reliability-and-Modeling-Readiness-Inspector)
-
-### Bangladesh Air Quality Forecasting
-A PM2.5 forecasting workflow across Bangladeshi cities using automated API ingestion, SQLite storage, and time-series modeling.
-
-Repository: [Bangladesh-air-quality-forecasting](https://github.com/MeherabHS/Bangladesh-air-quality-forecasting)
+**Statistically Validated Multi-Horizon Electricity Load Forecasting with Weather-Augmented Machine Learning under Walk-Forward Evaluation**  
+M. H. Shafin · *Research Square preprint*, 2026 · [doi:10.21203/rs.3.rs-9285801/v1](https://doi.org/10.21203/rs.3.rs-9285801/v1) · [code](https://github.com/MeherabHS/Statistically-Validated-Multi-Horizon-Electricity-Load-Forecasting-with-Weather-Augmented-ML)  
+> Weather-augmented Gradient Boosting was the strongest model at every horizon (RMSE 166 at t+1 and 456 at t+168, vs 511 without weather at t+168). Presented at the DIU Research Poster Presentation, May 2026 (Certificate of Achievement).
 
 ---
 
-## Activity
+## Featured work
 
-<div align="center">
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MeherabHS&theme=tokyo-night&hide_border=true" 
-  alt="GitHub Activity Graph" 
-/>
-
-</div>
-
-
-## Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-1F77B4?style=for-the-badge&logo=python&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+| Project | What it is | Highlights |
+|---|---|---|
+| [**DengueOps AI**](https://github.com/MeherabHS/dengueops-ai-new) | Dengue early-warning and decision-support platform for Dhaka (in active development) | Forecasting pipeline with a seven-model rolling-origin comparison, web dashboard, mobile community reporting and vector-image classification. The follow-on system to the dengue study. |
+| [**HelloDoctor**](https://github.com/MeherabHS/hellodoctor) | Telemedicine platform for Kenya | Rust (Axum, SQLx) API on PostgreSQL, Flutter patient and doctor apps, Next.js web apps, video consultations. Built with automated security testing and native ARM64 deployment checks. |
+| [**Bangladesh air-quality forecasting**](https://github.com/MeherabHS/Bangladesh-air-quality-forecasting) | PM2.5 forecasting across 8 cities | Automated ingestion, SQLite storage, ARIMA/SARIMA with rolling-origin validation. |
+| [**NYC taxi data engineering**](https://github.com/MeherabHS/nyc-taxi-data-engineering-postgresql) | ETL and analytics on 40.4M records (~3.9 GB) | PostgreSQL staging and analytics layers; B-tree indexing cut a representative query from ~1.2 s to 0.05 s. |
 
 ---
 
-## Research & Technical Interests
+## Experience
 
-- Time-series forecasting and model validation
-- Public health and environmental analytics
-- Data engineering and ETL pipelines
-- SQL optimization and database-backed systems
-- Reproducible computational workflows
-- Full-stack application development
-- Decision-support tools and dashboards
+**Junior Data and Research Associate**, Research and Management Consultants Ltd. (RMCL), Dhaka · Dec 2025 – present
+- Data management team, Bangladesh Medical University HIV Test Kit Verification Study: Python analysis, interpretation of verification findings, sequential A1/A2/A3 testing approaches.
+- Questionnaire implementation for an Ecological Momentary Assessment study (associated with the University of Georgia) and the IJM CSEC Baseline Study.
+- Designed and built RMCL's Procurement and Consultant Repository, saving about 20 staff-hours per week of proposal preparation.
 
----
-
-## Recent Highlights
-
-### 1. Research Square Preprint
-**Do climate covariates improve national-scale dengue forecasting beyond autoregressive and seasonal structure?**
-
-View: [Research Square Preprint](https://www.researchsquare.com/article/rs-9022720/v1)
-
-### 2. Electricity Load Forecasting Research Output
-**Statistically Validated Multi-Horizon Electricity Load Forecasting with Weather-Augmented Machine Learning under Walk-Forward Evaluation**
-
-View: [ResearchGate Output](https://www.researchgate.net/publication/403543296_Statistically_Validated_Multi-Horizon_Electricity_Load_Forecasting_with_Weather-Augmented_Machine_Learning_under_Walk-Forward_Evaluation)
-
-### 3. Co-curricular Achievements
-- Inter Cantonment National Debate Competition — Runner-up, 2024
-- AUST DC National Debate Competition — Runner-up, 2023
-- Adamjee School Environmental Debate — Champion, 2018
-- Campus Ambassador — Green Genesis Fest, 2026
-- DIU Division of Research Poster Presentation — Certificate of Achievement
+**Systems Architect and Software Engineer**, Circle Technology Ltd, Dhaka
+- Architect and lead engineer of [HelloDoctor](https://github.com/MeherabHS/hellodoctor), a telemedicine platform: Rust API, PostgreSQL with row-level security, Flutter patient and doctor apps, Next.js web apps.
+- Built the delivery pipeline: automated backend test suites, security scanning, disposable penetration-test stacks and native ARM64 image validation in CI.
 
 ---
 
-## Portfolio
+## Skills
 
-Visit my portfolio:
+**Data science:** Python, pandas, NumPy, scikit-learn, statsmodels (SARIMA/ARIMA), time-series validation, SQL  
+**Engineering:** PostgreSQL, Rust, TypeScript, Next.js, Flutter, Docker, CI/CD, Linux  
+**Certifications:** [DataCamp Data Scientist](https://www.datacamp.com/certificate/DS0025952951169) · [IBM Data Science Professional Certificate](https://www.credly.com/badges/c529c874-15dc-4c7b-be6e-26cdb5848775/linked_in_profile)
 
-[https://meherabhs.netlify.app](https://meherabhs.netlify.app)
+## Honours
 
+- Dean's List Award, Spring 2026, Faculty of Science and Information Technology, DIU
+- Certificate of Achievement, DIU Research Poster Presentation, 2026
+- Runner-up, 6th AUSTDC Nationals, 2024
+- Champion and Runner-up, Inter-Cantonment National Debate Championship, 2024
+- Campus Ambassador, Green Genesis 2026
 
+---
 
-> Building data systems that matter, models that forecast, and workflows that are reproducible.
-
+<sub>Teaching side project: [Boxes & Bytes](https://meherabhs.github.io/boxes-and-bytes/), an interactive C and data structures course for beginners.</sub>
