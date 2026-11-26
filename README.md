@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://meherabhs.netlify.app">
-    <img src="meherab.jpg" alt="Meherab Hossain Shafin" width="100%" />
+    <img src="meherab.png" alt="Meherab Hossain Shafin" width="100%" />
   </a>
 </p>
 
