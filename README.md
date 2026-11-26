@@ -62,7 +62,8 @@ M. H. Shafin · *Research Square preprint*, 2026 · [doi:10.21203/rs.3.rs-928580
 - Dean's List Award, Spring 2026, Faculty of Science and Information Technology, DIU
 - Certificate of Achievement, DIU Research Poster Presentation, 2026
 - Runner-up, 6th AUSTDC Nationals, 2024
-- Champion and Runner-up, Inter-Cantonment National Debate Championship, 2024
+- Runner-up, Inter-Cantonment National Debate Championship (College Level), 2024
+- Champion, Inter-Cantonment National Debate Championship, 2022
 - Campus Ambassador, Green Genesis 2026
 
 ---
